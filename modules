@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+	<header> 
+		<meta charset="UTF-8">
+		<link rel="stylesheet" href="General.css"
+	</header>
+	<body>
+		<table id="tab_tarif">
+			<tr>
+				<td> tarif Adulte </td>
+				<td> tarif Enfant </td>
+			</tr>
+			<tr>
+				<td> 10 € </td>
+				<td> 5 € </td>
+			</tr>
+			</table>
+	</body>
+</html>
